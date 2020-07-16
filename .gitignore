@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Mac OS files.
+.DS_Store
+
 # Others files.
 config.py
 *.xml

@@ -1,2 +1,7 @@
-# TwitterFollowersChecker
-This application obtains the users that follow another user (their followers). This application also checks unfollows and new followers.
+# TwitterContactsChecker
+
+Before executing the app, you have to set the parameters in order to connect to Twitter API in 'config.py' . Next, you have to execute the next line:
+
+````bash
+python app.py
+```
